@@ -1,0 +1,19 @@
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-position:unset;
+    background-size: cover;         
+}
+nav{
+   padding: 2%; background-color: rgb(176, 182, 189); text-decoration: aliceblue; font-size: 0.5cm;
+}
+button{
+   border: 0px; background-color:rgb(224, 226, 228);
+}
+a{
+  margin-left: 2%;
+}
+#a{ margin-left: 60%;}
+.port{
+   font-family:fantasy; color: rgb(245, 250, 255); font-size: 0.75cm; font-weight: 300;
+}
